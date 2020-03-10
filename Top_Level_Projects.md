@@ -10,7 +10,7 @@ the person running it.
 
 ### Context
 
-We currently have three top-level projecst:
+We currently have three top-level projects:
 
   - R-hub, by Gabor Csardi.
   - RUGS program (incl. small conferences)
