@@ -1,6 +1,6 @@
 # Contributing to the ISC [DRAFT]
 
-## Contributing Projects to R Consortium
+## Contributing to R Consortium
 
 If you're interested in contributing a project to the R Consortium, please open up an issue here for discussion: https://github.com/RConsortium/isc/issues
 
