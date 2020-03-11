@@ -1,1 +1,0 @@
-The ISC code of conduct is currently under development
