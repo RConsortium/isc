@@ -16,7 +16,7 @@ There has been a call from R Consortium’s Infrastructure Steering Committee (I
 * R Consortium SIGs & working groups (various tasks)
 * Technical content for website
 
-If you are interested in engaging in this way, we would encourage you to issue a pull request to [TOC Contributors](https://github.com/RConsortium/isc/blob/master/CONTRIBUTORS.md) that you desire to become a ISC Contributor. Although there is not an actual limit of having one Contributor per company, we would encourage R Consortium member companies to designate an official TOC Contributor who is tasked with consulting internal experts and expressing a semi-official view on a given project.
+If you are interested in engaging in this way, we would encourage you to issue a pull request to [ISC Contributors](https://github.com/RConsortium/isc/blob/master/CONTRIBUTORS.md) that you desire to become a ISC Contributor. Although there is not an actual limit of having one Contributor per company, we would encourage R Consortium member companies to designate an official ISC Contributor who is tasked with consulting internal experts and expressing a semi-official view on a given project.
 
 This is not only about individual contribution.  It is also about rallying help from your employer, e.g., if you work for a R Consortium Member company. We're particularly interested in Contributors that can act as a focal point for tapping relevant expertise from their organizations and colleagues in order to engage with R Consortium discussions in a timely manner.
 
