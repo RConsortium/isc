@@ -10,12 +10,10 @@ The role of the R Consortium Infrastructure Steering Committee (ISC) is to facil
 
 ## Governance
 
-* The [Bylaws](https://github.com/RConsortium/charter/blob/master/R-Consortium-Bylaws-1157174-v2-Approved-11.20.19.pdf) under which R Consortium operates
-* [ISC Charter](https://github.com/RConsortium/isc/blob/master/R-Consortium-ISC-Charter-1157183-v2-Approved-11.20.19.pdf)
+* The [Bylaws](https://bylaws.r-consortium.org) under which R Consortium operates
+* [ISC Charter](https://isc-charter.r-consortium.org)
 
 ## Members
-
-* @TODO
 
 Updated website for ISC: https://www.r-consortium.org/about/governance
 
@@ -33,9 +31,9 @@ The meeting agenda is hosted here: [ISC Agenda](#tbd)
 
 The meeting minutes are here: [ISC Meeting Notes](docs/#tbd)
 
-The public calendar is here: @TBD
+The public calendar is here: [Public R Consortium calendar](https://calendar.r-consortium.org) ([Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=c_vbru9ai8gphi28df3s79u4m60o@group.calendar.google.com), [iCal](https://calendar.google.com/calendar/ical/c_vbru9ai8gphi28df3s79u4m60o%40group.calendar.google.com/public/basic.ics))
 
-The community also uses [Slack additional collaboration opportunities](https://join.slack.com/t/rconsortium/shared_invite/zt-cmmt8p84-MSSL1fLZ1PQbGdW2eO5npw)
+The community also uses [Slack for additional collaboration opportunities](https://join.slack.com/t/rconsortium/shared_invite/zt-cmmt8p84-MSSL1fLZ1PQbGdW2eO5npw)
 
 ## Documents
 * [Principles](PRINCIPLES.md)
